@@ -1,4 +1,8 @@
-Working on this Rails tutorial to review
+I built this sample application by following along with the tutorial listed below. You can check out my completed, deployed version on Heroku [here](https://pacific-forest-82211.herokuapp.com/)
+
+It is a social app modeled after Twitter, which allows users to post microposts and follow/unfollow other users.
+
+It was a good exercise in test-driven development, something that was relatively new to me. This took me a little over a month to complete, and I worked about an hour or so per day. 
 
 # Ruby on Rails Tutorial sample application
 
